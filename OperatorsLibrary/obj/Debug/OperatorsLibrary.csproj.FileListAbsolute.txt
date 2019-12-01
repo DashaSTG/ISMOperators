@@ -1,0 +1,6 @@
+c:\users\asus\source\repos\ISMOperators\OperatorsLibrary\bin\Debug\OperatorsLibrary.dll
+c:\users\asus\source\repos\ISMOperators\OperatorsLibrary\bin\Debug\OperatorsLibrary.pdb
+c:\users\asus\source\repos\ISMOperators\OperatorsLibrary\obj\Debug\OperatorsLibrary.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\ISMOperators\OperatorsLibrary\obj\Debug\OperatorsLibrary.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\ISMOperators\OperatorsLibrary\obj\Debug\OperatorsLibrary.dll
+c:\users\asus\source\repos\ISMOperators\OperatorsLibrary\obj\Debug\OperatorsLibrary.pdb

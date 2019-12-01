@@ -1,0 +1,9 @@
+c:\users\asus\source\repos\ISMOperators\oopConsole\bin\Debug\oopConsole.exe.config
+c:\users\asus\source\repos\ISMOperators\oopConsole\bin\Debug\oopConsole.exe
+c:\users\asus\source\repos\ISMOperators\oopConsole\bin\Debug\oopConsole.pdb
+c:\users\asus\source\repos\ISMOperators\oopConsole\bin\Debug\OperatorsLibrary.dll
+c:\users\asus\source\repos\ISMOperators\oopConsole\bin\Debug\OperatorsLibrary.pdb
+c:\users\asus\source\repos\ISMOperators\oopConsole\obj\Debug\oopConsole.csprojResolveAssemblyReference.cache
+c:\users\asus\source\repos\ISMOperators\oopConsole\obj\Debug\oopConsole.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\ISMOperators\oopConsole\obj\Debug\oopConsole.exe
+c:\users\asus\source\repos\ISMOperators\oopConsole\obj\Debug\oopConsole.pdb
